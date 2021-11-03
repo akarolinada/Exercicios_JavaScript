@@ -11,6 +11,12 @@ th{
     border-bottom: solid 1px black;
 }
 
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 
 
 
